@@ -5,4 +5,4 @@
 🌱 I'm a software engineer and management engineer. \
 💞️ I'm looking to collaborate on your wonderful projects. \
 📫 How to reach me: email, Twitter. \
-[🇮🇹](it.md)
+🇮🇹 [Giuseppe Macario](it.md)
