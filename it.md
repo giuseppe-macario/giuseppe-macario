@@ -10,7 +10,7 @@ Ingegnere informatico-gestionale con esperienza ventennale, iscritto anche a cat
 
 ## Ingegnere del software
 
-Progettazione, sviluppo e manutenzione di applicazioni per Web, desktop e mobile. Android, iOS, Swift, Java, Spring, Hibernate, Visual Studio, Apple Xcode, Android Studio. C, C++, C#, F#, Ruby, Visual Basic, .NET, Git, COBOL, scripting Bash e PowerShell, Closure, DevOps, Agile.
+Progettazione, sviluppo e manutenzione di applicazioni per Web, desktop e mobile. Android, iOS, Swift, Java, Spring, Hibernate, Visual Studio, Apple Xcode, Android Studio. C, C++, C#, F#, Haskell, SML, OCaml, Scala, Ruby, Visual Basic, .NET, Git, COBOL, scripting Bash/Unix e PowerShell, Closure, DevOps, Agile.
 
 ## Data scientist
 
@@ -22,7 +22,7 @@ Protezione di reti, sistemi e dati da minacce informatiche. Approfondita conosce
 
 ## Web developer
 
-Creazione siti e app. HTML, CSS, JavaScript, Node.js, Vue.js, React.js, Angular, jQuery, PHP, ASP, XML, JSON, CMS WordPress.
+Creazione siti e app. HTML, CSS, JavaScript, Node.js, Vue.js, React.js, Angular, jQuery, PHP, ASP, XML, JSON, CMS WordPress. Approfondita conoscenza degli standard World Wide Web Consortium (W3C).
 
 ## Data engineer
 
