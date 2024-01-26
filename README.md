@@ -4,10 +4,10 @@
 👀 I'm one of the many GitHub users interested in computer programming. \
 🌱 I'm a software engineer and management engineer. \
 💞️ I'm looking to collaborate on your wonderful projects. \
-📫 How to reach me: email, Twitter. \
+📫 Email me if you need an updated résumé in PDF. \
 🇮🇹 [in italian](it.md)
 
-Computer and management engineer with twenty years of experience, belonging to Italian protected categories L.68/99 as well. Previously, world record holder [ACM-ICPC](https://icpc.global) and former external consultant for Google Ireland in the field of reinforcement machine learning applied to the optimization of web search algorithms.
+Computer and management engineer with twenty years of experience, belonging to Italian protected categories as well. Previously, world record holder [ACM-ICPC](https://icpc.global) and former external consultant for Google Ireland in the field of reinforcement machine learning applied to the optimization of web search algorithms.
 
 ### Software engineering
 
