@@ -2,11 +2,11 @@ CV curriculum vitae
 
 # Giuseppe Macario
 
-Ingegnere informatico italo-panamense Albo Panama
+Giuseppe Macario è un ingegnere informatico italo-panamense Albo Panama
 
 ## Sommario
 
-Ingegnere informatico-gestionale con esperienza ventennale, iscritto anche a categorie protette italiane L.68/99. Precedentemente, primatista del mondo [ACM-ICPC](https://icpc.global) ed ex consulente esterno di Google Ireland nel settore del machine learning per rinforzo applicato all’ottimizzazione degli algoritmi di ricerca per il web.
+Giuseppe Macario è un ingegnere informatico-gestionale con esperienza ventennale. Precedentemente, è stato anche primatista del mondo [ACM-ICPC](https://icpc.global) ed ex consulente esterno di Google Ireland nel settore del machine learning per rinforzo applicato all’ottimizzazione degli algoritmi di ricerca per il web.
 
 ## Ingegnere del software
 
