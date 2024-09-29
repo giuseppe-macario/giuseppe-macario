@@ -54,8 +54,6 @@ Second Life Metaverse, available at Library of Congress, Washington DC, https://
 
 ## In italiano
 
-(tratto da [italian](it.md))
-
 Giuseppe Macario è un ingegnere informatico-gestionale con esperienza ventennale iscritto all'albo di Panama. Precedentemente, è stato anche primatista del mondo [ACM-ICPC](https://icpc.global) ed ex consulente esterno di Google Ireland nel settore del machine learning per rinforzo applicato all’ottimizzazione degli algoritmi di ricerca per il web.
 
 ### Ingegnere del software
@@ -100,15 +98,10 @@ SAP ABAP, SEO specialist, SEM, social media manager, CRM, Office, Word, Excel, L
 
 ### Formazione
 
-Formazione ingegneristica, matematica e informatica: [MIT Massachusetts Institute of Technology](https://web.mit.edu)
+Formazione ingegneristica, matematica e informatica: [MIT Massachusetts Institute of Technology](https://www.mit.edu)
 
 Formazione legale: [Harvard University](https://www.harvard.edu/)
 
-### Lingue
-
-* inglese: madrelingua
-* italiano: madrelingua
-* spagnolo: buono
 
 ### Pubblicazioni
 
