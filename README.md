@@ -1,16 +1,10 @@
 ## Giuseppe Macario
 
-👋 Hi, I'm Giuseppe Macario @giuseppe-macario \
-👀 I'm one of the many GitHub users interested in computer programming. \
-🌱 I'm a software engineer and management engineer. \
-💞️ I'm looking to collaborate on your wonderful projects. \
-📫 Email me if you need an updated résumé in PDF.
+👋 Hi, I'm one of the many GitHub users interested in computer programming.
 
-Computer and management engineer with twenty years of experience, belonging to Italian protected categories as well. Previously, world record holder [ACM-ICPC](https://icpc.global) and former external consultant for Google Ireland in the field of reinforcement machine learning applied to the optimization of web search algorithms.
+### Software
 
-### Software engineering
-
-Design, development and maintenance of software for both desktop and mobile. Android, iOS, Swift, Java, Spring, Hibernate, Visual Studio, Apple Xcode, Android Studio. C, C++, C#, F#, Haskell, SML, OCaml, Scala, Ruby, Visual Basic, .NET, Git, COBOL, Bash/Unix and PowerShell scripting, Closure, DevOps, Agile.
+Design, development and maintenance of software for both desktop and mobile. Android, iOS, Swift, Java, Spring, Hibernate, Visual Studio, Apple Xcode, Android Studio. C, C++, C#, F#, Haskell, SML, OCaml, Scala, Ruby, Visual Basic, .NET, Git, COBOL, Bash/Unix and PowerShell scripting, Closure, DevOps, Agile, Full stack.
 
 ### Data scientist
 
@@ -54,9 +48,9 @@ Second Life Metaverse, available at Library of Congress, Washington DC, https://
 
 ## In italiano
 
-Giuseppe Macario è un ingegnere informatico-gestionale con esperienza ventennale iscritto all'albo di Panama. Precedentemente, è stato anche primatista del mondo [ACM-ICPC](https://icpc.global) ed ex consulente esterno di Google Ireland nel settore del machine learning per rinforzo applicato all’ottimizzazione degli algoritmi di ricerca per il web.
+Giuseppe Macario è un ingegnere informatico-gestionale con esperienza ventennale iscritto all'albo di Panama. Precedentemente, è stato anche primatista del mondo [ACM-ICPC](https://icpc.global)
 
-### Ingegnere del software
+### Ingegnere software
 
 Progettazione, sviluppo e manutenzione di applicazioni per Web, desktop e mobile. Android, iOS, Swift, Java, Spring, Hibernate, Visual Studio, Apple Xcode, Android Studio. C, C++, C#, F#, Haskell, SML, OCaml, Scala, Ruby, Visual Basic, .NET, Git, COBOL, scripting Bash/Unix e PowerShell, Closure, DevOps, Agile.
 
@@ -88,20 +82,17 @@ Conoscenza approfondita di architetture e protocolli di rete per LAN, WAN, MAN e
 
 Progettazione, creazione e manutenzione di infrastrutture cloud per le aziende. Approfondita conoscenza di Amazon AWS, Microsoft Azure e Google Cloud Platform. Virtualizzazione di server e desktop. Docker, Kubernetes.
 
-### Esperto di blockchain
+### Esperto blockchain
 
 Progettazione e sviluppo di applicazioni basate su blockchain. Approfondita conoscenza della tecnologia blockchain e delle sue applicazioni, nonché della programmazione di smart contract.
 
 ### Extra
 
-SAP ABAP, SEO specialist, SEM, social media manager, CRM, Office, Word, Excel, LaTeX.
+SAP ABAP, SEO specialist, SEM, social media manager, CRM, Office, Word, Excel, LaTeX, categorie protette L. 68/99.
 
 ### Formazione
 
-Formazione ingegneristica, matematica e informatica: [MIT Massachusetts Institute of Technology](https://www.mit.edu)
-
-Formazione legale: [Harvard University](https://www.harvard.edu/)
-
+[MIT Massachusetts Institute of Technology](https://www.mit.edu)
 
 ### Pubblicazioni
 
