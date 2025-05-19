@@ -96,4 +96,4 @@ SAP ABAP, SEO specialist, SEM, social media manager, CRM, Office, Word, Excel, L
 
 ### Pubblicazioni
 
-Metaverso Second Life, presso Biblioteca del Congresso degli Stati Uniti d'America https://lccn.loc.gov/2014454901
+Metaverso Second Life, presso Biblioteca del Congresso degli Stati Uniti d'America (LCCN: 2014454901)
